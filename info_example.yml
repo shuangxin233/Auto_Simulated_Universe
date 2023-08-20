@@ -6,7 +6,7 @@ config:
   - 7
   angle: 0.4439925343477558
   difficulty: 1
-  fate: 存护
+  fate: 丰饶
   map_sha: 139c15986c451404ed1903dccccb006f03a463d1
   show_map_mode: 0
   debug_mode: 0
